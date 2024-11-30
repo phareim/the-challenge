@@ -1,0 +1,11 @@
+{
+  "name": "the-challenge",
+  "version": "1.0.0",
+  "description": "work out, eat better, sleep, live",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "phareim@gmail.com",
+  "license": "ISC"
+}
